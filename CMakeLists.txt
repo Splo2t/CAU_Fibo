@@ -3,4 +3,4 @@ project(1018_Fibo C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(1018_Fibo main.c)
+add_executable(1018_Fibo 20181517.c)
